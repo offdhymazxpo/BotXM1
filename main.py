@@ -3,7 +3,7 @@ import sys
 from colorama.ansi import Fore
 import socketio, pyqrcode, time
 """
- Author: Krypton Byte
+ Author: XM
  Update: Wed 6 Jan 2020 14:39
 """
 angka=0
